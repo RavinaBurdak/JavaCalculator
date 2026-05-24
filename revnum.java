@@ -1,6 +1,6 @@
 //print reverse of a number
 import java.util.*;
-public class forloop24 {
+public class revnum {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int n =sc.nextInt();
@@ -15,3 +15,5 @@ public class forloop24 {
     }
     
 }
+
+
