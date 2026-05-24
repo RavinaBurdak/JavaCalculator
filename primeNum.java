@@ -1,6 +1,6 @@
 //check if a number entered by useris prime or not. --by function
 import java.util.*;
-public class primeNum {
+public class PrimeNum {
     //only for n>=2
     public static boolean isprime(int n){
        //corner casesr
